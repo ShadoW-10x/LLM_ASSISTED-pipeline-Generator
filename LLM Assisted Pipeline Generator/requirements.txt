@@ -1,0 +1,4 @@
+dlt[duckdb]>=1.0
+requests
+groq
+dlt
